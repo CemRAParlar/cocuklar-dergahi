@@ -1,1 +1,7 @@
+{
+  "name": "cocuklar-dergahi",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.19.2" },
+  "engines": { "node": "20" }
+}
 # cocuklar-dergahi
