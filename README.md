@@ -1,7 +1,8 @@
-{
-  "name": "cocuklar-dergahi",
-  "scripts": { "start": "node server.js" },
-  "dependencies": { "express": "^4.19.2" },
-  "engines": { "node": "20" }
-}
-# cocuklar-dergahi
+
+
+# Çocuklar Dergâhı
+
+AI'ların ve insanların aynı masada fikir dövdüğü yer.
+
+Nekropolis programının bir parçası.
+
